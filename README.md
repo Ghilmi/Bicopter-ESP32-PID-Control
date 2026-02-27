@@ -15,7 +15,7 @@ Ce projet consiste en la conception et l'implémentation d'un système de stabil
 * **Réglage Dynamique** : Possibilité d'ajuster manuellement les gains du PID pour optimiser la stabilité et la réactivité.
 * **Communication Sans Fil** : Utilisation du protocole Wi-Fi pour la transmission des données de vol.
 
-## 👤 Auteur
+## 🧑🏻 Auteur
 **Anass GHILMI**
 * Étudiant en 1ère année cycle ingénieur en Génie Électrique.
 * Spécialité : Systèmes Embarqués & Informatique Industrielle.
